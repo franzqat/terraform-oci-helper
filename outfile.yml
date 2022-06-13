@@ -1,0 +1,12 @@
+#1
+- display_name: EXAMPLE
+  availability_domain: jfxe:EU-FRANKFURT-1-AD-EXAMPLE
+  fault_domain: FAULT-DOMAIN-EXAMPLE
+  hostname_label: EXAMPLE
+  private_ip: EXAMPLE
+  shape: EXAMPLE
+  memory_in_gbs: EXAMPLE
+  ocpus: EXAMPLE
+  boot_volume_size_in_gbs: EXAMPLE
+  assign_public_ip: EXAMPLE
+  freeform_tag: EXAMPLE
